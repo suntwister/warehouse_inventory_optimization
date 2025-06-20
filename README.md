@@ -1,1 +1,1 @@
-# Warehouse_inventory_optimization
+# Warehouse_Inventory_Optimization
