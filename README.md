@@ -23,7 +23,8 @@ This Power BI dashboard helps warehouse managers monitor stock levels, product m
 - `README.md` — Project overview
 
 ### 📷 Dashboard Preview
-> **
+> <img width="593" alt="image" src="https://github.com/user-attachments/assets/be8f324c-bc02-4b1b-abe5-4b50b98f5609" />
+**
 
 ---
 
